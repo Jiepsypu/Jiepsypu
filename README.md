@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jiepsypu
+- 👀 I’m interested in social cognition and fMRI data analysis
+- 🌱 I’m currently learning FSL and computational neuroscience
+- 📫 How to reach me pquera731@outlook.com
+- 😄 Pronouns: her
